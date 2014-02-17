@@ -1,4 +1,0 @@
-You just need to store whatever the client sends you for that parameter.
-It is a value that will allow us to decide whether or not to purge that cVault record when certain thresholds have been reached.
-Those thresholds could be storage capacity, or time frame.
-Does that make sense?
